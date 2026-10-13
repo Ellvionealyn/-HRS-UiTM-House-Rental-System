@@ -1,43 +1,16 @@
-PROJECT TITLE:
-House Rental System for Non-Resident Students in UiTM Sabah (HRS-UiTM)
+# House Rental System for Non-Resident Students (HRS-UiTM)
 
-PURPOSE OF PROJECT:
-This project was developed to help non-resident UiTM Sabah students find and book rental accommodations near the university. The system allows landlords to manage rental houses and administrators to manage landlord information.
+### PROJECT TITLE:
+**House Rental System for Non-Resident Students in UiTM Sabah (HRS-UiTM)**
 
-The project was developed using Java and BlueJ, applying Object-Oriented Programming (OOP) concepts such as inheritance, polymorphism, abstraction, and encapsulation.
+### PURPOSE OF PROJECT:
+This project was developed to help **non-resident UiTM Sabah students** find and book rental accommodations near the university. The system allows **landlords** to manage rental houses and **administrators** to manage landlord information.
 
-VERSION OR DATE:
-July 2023
+The project was developed using **Java and BlueJ**, applying **Object-Oriented Programming (OOP)** concepts such as inheritance, polymorphism, abstraction, and encapsulation.
 
-HOW TO START THIS PROJECT:
+### VERSION OR DATE:
+**July 2023**
 
-1. Install BlueJ and ensure Java is available.
-2. Download or clone this repository.
-3. Open the project folder using BlueJ.
-4. Compile all Java classes.
-5. Run the MainHRS class to start the system.
-6. Follow the instructions displayed by the program.
+### HOW TO START THIS PROJECT:
 
-USER INSTRUCTIONS:
-
-The system provides three user roles:
-
-1. Non-Resident Student
-- Search for available rental houses (Terrace, Apartment, or Condominium).
-- Book a rental house and confirm the deposit payment.
-- View existing booking details using a booking ID.
-
-2. Landlord
-- Log in to the system.
-- Add new rental house information.
-- View reports of booked houses.
-- Update rental deposit amounts.
-
-3. Administrator
-- Log in to the system.
-- Add and view registered landlords.
-- Update landlord login credentials.
-
-ADDITIONAL INFORMATION:
-- The system uses text files (houses.txt, booking.txt, and login.txt) to store and retrieve rental house details, booking records, and login information.
-- This project was developed as a group assignment for Diploma in Computer Science, Universiti Teknologi MARA (UiTM) Sabah.
+1. Install **BlueJ** and ensure Java is available
