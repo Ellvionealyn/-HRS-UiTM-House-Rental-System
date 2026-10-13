@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Terrace
+comment1.params=type\ a\ bed\ bath\ br\ s
+comment1.target=Terrace(java.lang.String,\ java.lang.String,\ int,\ int,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=double\ calculateRent()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

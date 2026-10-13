@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Landlord
+comment1.params=
+comment1.target=Landlord()
+comment2.params=name\ pnum
+comment2.target=Landlord(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getLRDname()
+comment4.params=
+comment4.target=java.lang.String\ getLRDpnum()
+comment5.params=name
+comment5.target=void\ setLRDname(java.lang.String)
+comment6.params=pnum
+comment6.target=void\ setLRDpnum(java.lang.String)
+comment7.params=find
+comment7.target=void\ editDeposit(java.lang.String)
+comment8.params=
+comment8.target=void\ addHouse()
+comment9.params=
+comment9.target=boolean\ Exit()
+numComments=10

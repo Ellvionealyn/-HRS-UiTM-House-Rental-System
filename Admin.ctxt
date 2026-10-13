@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Admin
+comment1.params=
+comment1.target=Admin()
+comment2.params=
+comment2.target=void\ addLandlord()
+comment3.params=
+comment3.target=void\ viewLandlordReport()
+comment4.params=
+comment4.target=void\ editLogin()
+comment5.params=
+comment5.target=void\ start()
+numComments=6

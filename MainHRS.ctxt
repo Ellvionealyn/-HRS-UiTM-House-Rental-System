@@ -1,0 +1,19 @@
+#BlueJ class context
+#Wed Oct 14 02:09:58 MYT 2026
+comment0.target=MainHRS
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment10.target=void ending()
+comment11.target=void Greeting()
+comment12.target=void Goodbye()
+comment2.params=choice
+comment2.target=void showMenu(int)
+comment3.params=choice
+comment3.target=void showLoginMenu(int)
+comment4.target=void showNR()
+comment5.target=void showLandlord()
+comment6.target=void showAdmin()
+comment7.target=void endingNR()
+comment8.target=void endinglrd()
+comment9.target=void endingAdm()
+numComments=13

@@ -1,0 +1,5 @@
+Condominium;1 Sulaman;4;2;Has Lift;1080.0;3240.0
+Apartment;UUC;3;2;No Lift;890.0;2670.0
+Apartment;UA 1;4;2;No Lift;999.0;2498.0
+Apartment;UA 2;3;1;Has Lift;839.0;1878.0
+Terrace;Indah Permai;4;2;Single-Storey;1050.0;2100.0
